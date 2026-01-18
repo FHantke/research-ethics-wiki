@@ -1,4 +1,4 @@
-baseURL = "https://fhantke.github.io/research-ethics-wiki/"
+baseURL = "https://anonymous.github.io/research-ethics-wiki/"
 languageCode = "en-us"
 title = "Research Ethics Wiki"
 enableGitInfo = true
@@ -7,7 +7,7 @@ theme = "book"
 [params]
   # Set source repository location.
   # Used for 'Last Modified' and 'Edit this page' links.
-  BookRepo = 'https://github.com/FHantke/research-ethics-wiki'
+  BookRepo = 'https://github.com/anonymous/research-ethics-wiki'
 
   # Enable "Edit this page" links for 'doc' page type.
   # Disabled by default. Uncomment to enable. Requires 'BookRepo' param.
