@@ -9,10 +9,11 @@ theme = "book"
   # Used for 'Last Modified' and 'Edit this page' links.
   BookRepo = 'https://github.com/anonymous/research-ethics-wiki'
 
-  # Enable "Edit this page" links for 'doc' page type.
-  # Disabled by default. Uncomment to enable. Requires 'BookRepo' param.
-  # Edit path must point to root directory of repo.
-  BookEditPath = 'edit/main/content'
+  # Link template for the latest commit shown at the bottom of docs pages.
+  BookLastChangeLink = '{{ .Site.Params.BookRepo }}/commit/{{ .GitInfo.Hash }}'
+
+  # Link template for "Edit this page" shown at the bottom of docs pages.
+  BookEditLink = '{{ .Site.Params.BookRepo }}/edit/main/{{ .Path }}'
 
   # Configure the date format used on the pages
   # - In git information
