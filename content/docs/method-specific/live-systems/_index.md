@@ -60,5 +60,5 @@ Bug bounty and vulnerability disclosure platforms can offer a useful alternative
 ## References
 [^1]: Partridge et al. [Ethical considerations in network measurement papers](https://dl.acm.org/doi/10.1145/2896816) Communications of the ACM. 2016.
 [^2]: Hantke et al. [Where Are the Red Lines? Towards Ethical Server-Side Scans in Security and Privacy Research](https://doi.org/10.1109/SP54263.2024.00104). S&P. 2024.
-[^3] Durumeric et al. [ZMap: Fast Internet-wide Scanning and Its Security Applications](https://www.usenix.org/system/files/conference/usenixsecurity13/sec13-paper_durumeric.pdf). USENIX. 2013.
+[^3]: Durumeric et al. [ZMap: Fast Internet-wide Scanning and Its Security Applications](https://www.usenix.org/system/files/conference/usenixsecurity13/sec13-paper_durumeric.pdf). USENIX. 2013.
 [^4]: Decker et al. [VDPCollect: Vulnerability Disclosure Programs as a Complement to Web Security Measurements](https://swag.cispa.saarland/papers/decker2026vdpcollect.pdf). AsiaCCS. 2026.
