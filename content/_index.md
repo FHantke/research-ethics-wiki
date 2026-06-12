@@ -41,9 +41,19 @@ We would recommending to start by reading about the [ethics procedure]({{< relre
 
 ## Contributing
 
-This wiki is a community effort and we welcome contributions from researchers and practitioners. Whether you want to add new content, improve existing pages, or share case studies, your input is valuable. See [Contributions]({{< relref "docs/contributions" >}}) for more details.
+This wiki is a community effort and we welcome contributions from researchers and practitioners. Whether you want to add new content and references, improve existing pages, or share case studies, your input is valuable. See [Contributions]({{< relref "docs/contributions" >}}) for more details.
 
 ## About
 
-This wiki started as an actionable result from the [REC study](#). It aims to provide a similar comprehensive resource for research ethics in computer security and privacy.
+This wiki started as an actionable result from the [REC study](https://swag.cispa.saarland/papers/hantke2026rec.pdf) and aims to provide a similar comprehensive resource for research ethics in computer security and privacy.
 
+If you found this wiki helpful and used it as inspiration for your ethics section, please consider citing or mentioning it there so that others can discover and benefit from it as well.
+
+```
+@article{hantke2026reflection,
+  title={Reflection, Education, Consistency: Towards Best Ethics Practices At Security And Privacy Conferences},
+  author={Hantke, Florian and Mrowczynski, Rafael and Dralle, Til and Stock, Ben},
+  booktitle={Proceedings of the 2026 ACM SIGSAC Conference on Computer and Communications Security (CCS)},
+  year={2026}
+}
+```
