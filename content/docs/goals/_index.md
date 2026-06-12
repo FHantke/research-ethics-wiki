@@ -29,4 +29,4 @@ Goal set 3 is closely related to the preceding set but places greater emphasis o
 Goal set 4 focuses on how the S&P research community is perceived and evaluated by external stakeholders, including private companies, government agencies, legal institutions, and the broader public. A key element here is to prevent the publication of papers perceived as unethical by the general public. From this perspective, ethics procedures serve to strengthen the reputation and legitimacy of S&P conferences, research institutions, and academic research more broadly. In addition, such measures may function as a form of risk management, including, in some cases, reducing potential legal exposure for conference organizers.
 
 ## References
-[^1]: Authors. Reflection, Education, Consistency: Towards Best Ethics Practices At Security And Privacy Conferences. CCS 2026.
+[^1]: Hantke et al. [Reflection, Education, Consistency: Towards Best Ethics Practices At Security And Privacy Conferences](https://swag.cispa.saarland/papers/hantke2026rec.pdf). CCS 2026.

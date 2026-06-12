@@ -16,4 +16,4 @@ For both issues and pull requests, please indicate their purpose by applying the
 * **Suggestion**: Use this label for general proposals to improve the wiki.
 * **Update**: Use this label when updating existing information, such as conference policies.
 
-[^1]: Authors. Reflection, Education, Consistency: Towards Best Ethics Practices At Security And Privacy Conferences. CCS 2026.
+[^1]: Hantke et al. [Reflection, Education, Consistency: Towards Best Ethics Practices At Security And Privacy Conferences](https://swag.cispa.saarland/papers/hantke2026rec.pdf). CCS 2026.
