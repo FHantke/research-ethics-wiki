@@ -37,4 +37,4 @@ A paper involving user studies should include a clear ethics discussion. The sec
 The ethics section should also discuss risks and mitigations. This includes risks to all stakeholders, the participants, bystanders, organizations, and affected communities. If the study involved PII or sensitive data, the paper should explain how harms were mitigated. If the study involved deception, the paper should justify why deception was necessary and describe the debriefing process.
 
 ## References
-[^1] https://www.ecfr.gov/current/title-45/subtitle-A/subchapter-A/part-46
+[^1]: https://www.ecfr.gov/current/title-45/subtitle-A/subchapter-A/part-46
