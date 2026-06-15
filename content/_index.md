@@ -50,7 +50,7 @@ This wiki started as an actionable result from the [REC study](https://swag.cisp
 If you found this wiki helpful and used it as inspiration for your ethics section, please consider citing or mentioning it there so that others can discover and benefit from it as well.
 
 ```
-@article{hantke2026reflection,
+@inproceedings{hantke2026reflection,
   title={Reflection, Education, Consistency: Towards Best Ethics Practices At Security And Privacy Conferences},
   author={Hantke, Florian and Mrowczynski, Rafael and Dralle, Til and Stock, Ben},
   booktitle={Proceedings of the 2026 ACM SIGSAC Conference on Computer and Communications Security (CCS)},
