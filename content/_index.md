@@ -5,12 +5,6 @@ bookToc: false
 ---
 
 # Research Ethics Wiki
-
-{{< hint warning >}}
-This wiki is currently in the making and will be expanded with additional content over time..
-{{< /hint >}}
-
-
 {{< hint warning >}}
 This wiki is maintained by the community. The information provided is for educational purposes and should not be considered legal advice. Researchers should always consult with their institution's ethics review board and legal counsel when necessary.
 {{< /hint >}}
