@@ -1,4 +1,4 @@
-baseURL = "https://anonymous.github.io/research-ethics-wiki/"
+baseURL = "https://github.com/FHantke/research-ethics-wiki/"
 languageCode = "en-us"
 title = "Research Ethics Wiki"
 enableGitInfo = true
@@ -7,7 +7,7 @@ theme = "book"
 [params]
   # Set source repository location.
   # Used for 'Last Modified' and 'Edit this page' links.
-  BookRepo = 'https://github.com/anonymous/research-ethics-wiki'
+  BookRepo = 'https://github.com/FHantke/research-ethics-wiki/'
 
   # Link template for the latest commit shown at the bottom of docs pages.
   BookLastChangeLink = '{{ .Site.Params.BookRepo }}/commit/{{ .GitInfo.Hash }}'
