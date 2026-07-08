@@ -1,4 +1,4 @@
-baseURL = "https://github.com/FHantke/research-ethics-wiki/"
+baseURL = "https://fhantke.github.io/research-ethics-wiki/"
 languageCode = "en-us"
 title = "Research Ethics Wiki"
 enableGitInfo = true
