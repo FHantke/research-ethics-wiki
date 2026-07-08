@@ -1,0 +1,1 @@
+navigator.serviceWorker&&navigator.serviceWorker.register("/research-ethics-wiki/sw.js",{scope:"/research-ethics-wiki/"})
