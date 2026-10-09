@@ -18,6 +18,14 @@ A central expectation is that authors conduct and document a [stakeholder-based 
 
 To support ethical evaluation, USENIX has a REC.
 
+### [USENIX Security](https://www.usenix.org/conference/usenixsecurity26/call-for-papers#ethics) (2027)
+
+USENIX Security strongly encourages submissions to include a dedicated section on ethics in the appendix of the work.
+
+Authors should consult the USENIX 2026 ethics guidelines (including a [stakeholder-based ethics analysis]({{< relref "docs/procedure-elements/ethics-section" >}})) when considering ethical implications.
+
+To support ethical evaluation, USENIX has a REC.
+
 ### [IEEE S&P](https://sp2026.ieee-security.org/cfpapers.html#ethics-considerations) (2026)
 IEEE Security & Privacy requires a separate and clearly marked section titled *Ethics considerations* at the end of every paper. If no ethical considerations apply, authors must explicitly state *None* in that section. This ethics section does not count toward the page limit.
 
@@ -57,6 +65,7 @@ Similar to other major venues, NDSS may escalate submissions with ethics-related
 | Conference | Ethics Section | Page Limit | REC |
 | --- | --- | --- | --- |
 | USENIX Security (2026) | Required (*Ethical Considerations*; should contain stakeholder analysis) | Excluded from page limit | Yes |
+| USENIX Security (2027) | Strongly Encouraged (*Ethical Considerations*; should contain stakeholder analysis) | Excluded from page limit | Yes |
 | IEEE S&P (2026) | Required (*Ethics considerations*; must state *None* if not applicable) | Excluded from page limit | Yes |
 | IEEE S&P (2027) | Required (*Ethics considerations*; complete Ethics Considerations field on HotCRP; must state *None* if not applicable) | Excluded from page limit | Yes |
 | ACM CCS (2026) | Required if ethical concerns exist (*Ethics considerations*) | Excluded from page limit | No (track chairs handle ethics concerns) |
